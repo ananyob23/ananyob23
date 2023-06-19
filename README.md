@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ananyob23 👀
--  I’m interested in Data Analytics & Science
+- 👋 Hi, I’m @ananyob23 
+-   I’m interested in Data Analytics & Science
 - 💞️ I’m looking to collaborate on any AI,ML & DL projects
 - 📫 How to reach me : email me @ananyob@ankanalytics.com
 
